@@ -28,3 +28,5 @@ In the code, there's a scatter plot that visualizes the actual wine quality scor
 To apply this approach to your specific wine quality prediction task, you'll need to replace 'your_dataset.csv' with the path to your own dataset and adjust the feature names and target variable based on your data.
 
 Wine Quality Prediction is a practical and relevant application of machine learning, particularly in the wine industry, where it can provide valuable insights for winemakers and wine enthusiasts.
+
+thankyou 
